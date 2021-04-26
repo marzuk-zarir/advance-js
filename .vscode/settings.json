@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 4500,
+    "prettier.semi": false,
+    "emmet.excludeLanguages": ["markdown", "javascript"],
+    "tabnine.disable_file_regex": [".js"],
+    // "javascript.implicitProjectConfig.checkJs": true
+    "javascript.validate.enable": true
+}
